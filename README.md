@@ -1,10 +1,11 @@
 # Hi, I'm Ela Feriana 👋
 
-![Banner](https://i.ibb.co/7rFkTXQ/github-banner.png)
+![Ela Feriana](img/bg.jpg)
 
 ---
 
 ### 🚀 About Me
+
 - 🎓 Undergraduate Information System
 - 💻 Interested in Web Development & IoT
 - 🌱 Currently learning Flutter & Firebase
@@ -12,6 +13,7 @@
 ---
 
 ### 🛠️ I learn languages and tools
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
   <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino"/>
@@ -30,13 +32,16 @@
 ---
 
 ### 📬 Connect with me
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 
 ---
 
 ### 🎮 Play game with me
+
 ![GitHub Snake Animation](https://github.com/ahmadfaozah/ahmadfaozah/blob/output/github-contribution-grid-snake.svg)
 
 ---
-✨ *Thanks for visiting my profile!*
+
+✨ _Thanks for visiting my profile!_
