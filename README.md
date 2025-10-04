@@ -49,7 +49,7 @@
 </picture>
 <!-- ![GitHub Snake Animation](https://github.com/ahmadfaozah/ahmadfaozah/blob/output/github-contribution-grid-snake.svg) -->
 
-<img src="https://raw.githubusercontent.com/FerianaEla/FerianaEla/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/FerianaEla/FerianaEla/output/snake.svg" alt="Snake animation" /> -->
 
 ---
 
