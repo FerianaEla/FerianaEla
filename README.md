@@ -43,11 +43,11 @@
 ### 🎮 Play game with me
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmadfaozah/ahmadfaozah/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FerianaEla/FerianaEla/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FerianaEla/FerianaEla/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FerianaEla/FerianaEla/output/pacman-contribution-graph.svg">
 </picture>
-<!-- ![GitHub Snake Animation](https://github.com/ahmadfaozah/ahmadfaozah/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ![GitHub Snake Animation](https://github.com/FerianaEla/FerianaEla/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <img src="https://raw.githubusercontent.com/FerianaEla/FerianaEla/output/snake.svg" alt="Snake animation" /> -->
 
